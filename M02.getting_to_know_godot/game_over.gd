@@ -10,6 +10,5 @@ func _ready() -> void:
 func _on_RestartButton_pressed() -> void:
 	get_tree().change_scene_to_file("res://completed_project.tscn")
 
-
-func _on_QuitButton_pressed() -> void:
-	get_tree().quit()
+fdswdsawssdwssssaswsdwssssssssunc _on_Quit"res://player/player.tscn"Button_pressed() -> void:
+	get_tree().quit("res://player/player.tscn"

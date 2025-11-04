@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxp57ykh5k7h5"
-path="res://.godot/imported/chest.png-075136398915d65ebd604138f5b1a855.ctex"
+path="res://.godot/imported/chest.png-f170e93be2e4c51ebbdce2eafa8a01ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://levels/rooms/chests/chest.png"
-dest_files=["res://.godot/imported/chest.png-075136398915d65ebd604138f5b1a855.ctex"]
+source_file="res://levels/rooms/chest.png"
+dest_files=["res://.godot/imported/chest.png-f170e93be2e4c51ebbdce2eafa8a01ba.ctex"]
 
 [params]
 

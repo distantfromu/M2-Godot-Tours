@@ -41,3 +41,7 @@ func _on_enemy_died(enemy: Node) -> void:
 	_enemies.erase(enemy)
 	if _enemies.is_empty():
 		open_entrances()
+
+
+func _on_player_health_changed(new_health: Variant) -> void:
+	pass # Replace with function body.
